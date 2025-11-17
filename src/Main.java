@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class Main {
 
     private static final String API_URL =
-            "https://v6.exchangerate-api.com/v6/1f18a16c7d02329255fcca16/latest/";
+            "Sua API";
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
